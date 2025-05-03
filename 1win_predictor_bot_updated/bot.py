@@ -13,7 +13,7 @@ from aiogram.filters import Command
 
 # --- НАСТРОЙКИ ---
 TOKEN = '8048001614:AAHRlJR5JMBtepAAy19vZL9AO6AHBYBUZ1k'
-ADMIN_ID = 123456789  # Замените на свой Telegram user ID
+ADMIN_ID = 5594205452  # Замените на свой Telegram user ID
 
 # --- БОТ И ДИСПЕТЧЕР ---
 bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
